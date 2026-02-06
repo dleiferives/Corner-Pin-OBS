@@ -4,6 +4,8 @@ A Lua script for OBS that adds a 4-point perspective warp (Corner Pin) filter. T
 
 <img width="491" height="480" alt="image" src="https://github.com/user-attachments/assets/e4a28b6a-a2a7-4744-80aa-ceb0fe8ee214" />
 
+*Based off khaver's Corner Pin effect v1.4 https://obsproject.com/forum/resources/corner-pin.1474/ it was broken on my linux so this is my fix*
+
 ### **Installation**
 1. Copy `filter-cornerpin.lua` to your OBS scripts folder.
 2. In OBS, go to **Tools** > **Scripts**.
